@@ -1,0 +1,21 @@
+{
+  "name": "angular",
+  "description": "desc",
+  "main": "index.php",
+  "authors": [
+    "Yacine RAMI"
+  ],
+  "license": "MIT",
+  "homepage": "/",
+  "dependencies": {
+    "angular": "^1.6.0",
+    "bootstrap": "^3.3.7",
+    "angular-datatables": "^0.5.6",
+    "angular-ui-select": "^0.19.6",
+    "angular-route": "^1.6.0",
+    "datatables.net": "^1.10.13"
+  },
+  "resolutions": {
+    "angular": "~1.5"
+  }
+}
