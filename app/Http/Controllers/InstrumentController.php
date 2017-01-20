@@ -8,7 +8,6 @@ use View;
 use Illuminate\Http\Request;
 
 class InstrumentController extends Controller {
-
 	/**
 	 * Display a listing of the resource.
 	 * GET /instrument
